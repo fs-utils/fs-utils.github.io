@@ -20,6 +20,8 @@ projects:
  - name: fs-symlink
    repo: fs-utils/symlink
  - file-watch
+ - name: fs-reap
+   repo: fs-utils/reap
 
 # list of maintainers, this won't be sorted
 maintainers:

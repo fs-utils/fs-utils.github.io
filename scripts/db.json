@@ -18,15 +18,20 @@
       "maintainer": "jongleberry",
       "node": "0.8"
     },
+    "fs-reap": {
+      "description": "file cleanup based on atime/mtime",
+      "maintainer": "jongleberry",
+      "node": "0.10"
+    },
     "fs-symlink": {
       "description": "safe symlinking",
       "maintainer": "jongleberry",
-      "node": "0.11"
+      "node": "0.10"
     },
     "mkdirp-then": {
       "description": "mkdirp as promised",
       "maintainer": "jongleberry",
-      "node": "0.11"
+      "node": "0.10"
     },
     "rimraf-then": {
       "description": "rimraf as promised",
