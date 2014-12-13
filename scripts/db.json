@@ -18,6 +18,11 @@
       "maintainer": "jongleberry",
       "node": "0.8"
     },
+    "fs-lru-cache": {
+      "description": "File-system backed LRU caching system",
+      "maintainer": "jongleberry",
+      "node": "0.10"
+    },
     "fs-reap": {
       "description": "file cleanup based on atime/mtime",
       "maintainer": "jongleberry",
