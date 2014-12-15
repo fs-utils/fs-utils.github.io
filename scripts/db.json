@@ -23,6 +23,11 @@
       "maintainer": "jongleberry",
       "node": "0.10"
     },
+    "fs-readdir-recursive": {
+      "description": "Recursively read a directory",
+      "maintainer": "coderhaoxin",
+      "node": "0.10"
+    },
     "fs-reap": {
       "description": "file cleanup based on atime/mtime",
       "maintainer": "jongleberry",
@@ -31,7 +36,7 @@
     "fs-symlink": {
       "description": "safe symlinking",
       "maintainer": "jongleberry",
-      "node": "0.10"
+      "node": "0.8"
     },
     "mkdirp-then": {
       "description": "mkdirp as promised",
@@ -40,6 +45,11 @@
     },
     "rimraf-then": {
       "description": "rimraf as promised",
+      "maintainer": "jongleberry",
+      "node": "0.10"
+    },
+    "temp-path": {
+      "description": "Create a temporary filename or path",
       "maintainer": "jongleberry",
       "node": "0.10"
     }

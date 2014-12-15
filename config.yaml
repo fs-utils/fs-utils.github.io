@@ -22,7 +22,9 @@ projects:
  - file-watch
  - name: fs-reap
    repo: fs-utils/reap
- - name: fs-lru-cache
+ - fs-lru-cache
+ - temp-path
+ - fs-readdir-recursive
 
 # list of maintainers, this won't be sorted
 maintainers:
